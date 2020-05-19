@@ -1,6 +1,7 @@
 # Hello World!
 
-** Hi!**Lest get started**
+** Hi!**Let's get started**
+
 
 
 
