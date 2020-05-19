@@ -1,6 +1,6 @@
 # Hello World!
 
-** Hi!**Lest get stortid**
+** Hi!**Lest get started**
 
 
 
